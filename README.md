@@ -1,2 +1,2 @@
-# Pyhton_Codes
+# Python_Codes
 SImple python codes
